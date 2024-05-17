@@ -1,0 +1,4 @@
+A diligent shopkeeper maintains comprehensive records of their valued customers, encompassing essential details such as name, description, contact information and current balance. The customer balance is derived from two fundamental transactions: invoices and payments.
+Whenever an invoice is issued, the customer's balance experiences an increase(debit), whereas a payment serves to decrease(credit) it.
+To ensure accurate and transparent financial oversight, the shopkeeper relies on a detailed customer transaction report which shows for a given customer and date; transaction date, unique number, Type, remarks, debit, credit and balance(derived by subtracting debits from credits)
+Additionally, the transaction report maintains a consistent sorting order based on transaction dates, facilitating clear and chronological tracking of customer transactions at all times.
